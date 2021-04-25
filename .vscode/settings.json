@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/548dec92-845d-4bc4-ab05-191e056c5dbb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HappySadFaceOxford",
+    "appService.deploySubpath": ""
+}
